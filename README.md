@@ -3,7 +3,7 @@ Analytics Manager with a background spanning Data Analytics, Risk Management, Bu
 
 I'm currently exploring how AI can be embedded into real products and solutions, with a focus on helping organizations demystify and democratize data at scale. If you're a fellow data enthusiast, 🤝 let's connect.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suplitocjp) 
 
 # 💻 Tech Stack:
