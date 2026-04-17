@@ -1,7 +1,7 @@
 # <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b8d63641-af5a-4df4-97d7-75dfa8549446" /> About Me:
 Analytics Manager with a background spanning Data Analytics, Risk Management, Business Intelligence, and Statistics — with hands-on experience across consulting and banking & financial services.
 
-I'm currently exploring how AI can be embedded into real products and solutions, with a focus on helping organizations demystify and democratize data at scale. If you're a fellow data enthusiast, let's connect.
+I'm currently exploring how AI can be embedded into real products and solutions, with a focus on helping organizations demystify and democratize data at scale. If you're a fellow data enthusiast, 🤝 let's connect.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suplitocjp) 
