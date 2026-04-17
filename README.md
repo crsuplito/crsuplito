@@ -1,4 +1,5 @@
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9f24ce82-905e-49c1-bfe4-555c4d9a33a0" /> About Me:
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b8d63641-af5a-4df4-97d7-75dfa8549446" />
+ About Me:
 I'm currently working as an Analytics Manager,  my background spans in Data Analytics, Risk Management, Business Intelligence, and Statistics with consulting and banking & financial services experience<br>I'm looking to collaborate with fellow data enthusiast in expanding my network and my skills<br>I'm currently learning integrating AI in my products and solutions, enabling organizations demystifying and democratizing data even better<br>I'm an avid of anime, I play computer and mobile games
 
 
