@@ -1,5 +1,5 @@
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b8d63641-af5a-4df4-97d7-75dfa8549446" /> About Me:
-I'm currently working as an Analytics Manager,  my background spans in Data Analytics, Risk Management, Business Intelligence, and Statistics with consulting and banking & financial services experience<br>
+I'm currently working as an Analytics Manager. My background spans in Data Analytics, Risk Management, Business Intelligence, and Statistics with consulting and banking & financial services experience<br>
 
 I'm looking to collaborate with fellow data enthusiast in expanding my network and my skills<br>
 
