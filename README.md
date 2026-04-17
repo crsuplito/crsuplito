@@ -1,29 +1,17 @@
-# Hi, I'm Christian 👋
+# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b8d63641-af5a-4df4-97d7-75dfa8549446" /> About Me:
+Analytics Manager with a background spanning Data Analytics, Risk Management, Business Intelligence, and Statistics — with hands-on experience across consulting and banking & financial services.
 
-**Analytics Manager** | Data Analytics · Business Intelligence · Risk Management · Statistics
+I'm currently exploring how AI can be embedded into real products and solutions, with a focus on helping organizations demystify and democratize data at scale. If you're a fellow data enthusiast, let's connect.
 
-I work at the intersection of data, technology, and business — with experience spanning **consulting** and **banking & financial services**. My day-to-day involves turning messy data into clear decisions through SQL, ETL pipelines, and Power BI dashboards.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suplitocjp) 
 
----
-
-### 🚀 What I'm working on
-
-- **AI Integration** — embedding LLMs and AI into data products and workflows to help organizations truly democratize data
-- **Data Engineering** — deepening skills in cloud platforms, pipeline architecture, and modern data stacks
-- **BI & Storytelling** — building dashboards that don't just display numbers, but drive action
-
----
-
-### 🤝 Let's collaborate
-
-I'm always open to connecting with fellow data enthusiasts — whether you're into analytics, engineering, AI, or just passionate about making data more accessible. Reach out if you want to build, learn, or geek out together.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=crsuplito&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=crsuplito&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=crsuplito&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-### 🎮 Beyond the data
-
-Outside of work, you'll find me watching anime, grinding ranked matches, or at the gym chasing PRs.
-
----
-
-*"Demystifying data, one pipeline at a time."*
+[![](https://komarev.com/ghpvc/?username=crsuplito&icon=0&color=0)](https://visitcount.itsvg.in)
